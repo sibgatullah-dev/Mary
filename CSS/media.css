@@ -528,8 +528,37 @@
 
 /* medium device ==== */
 
-/* extra small device ==== */
-/* extra small device ==== */
+/* lg 992-1199 device ==== */
+@media (min-width: 992px) and (max-width: 1199px){
+    #banner .container .row .banner_text a {
+        padding: 18px 36px;
+        font-size: 18px;
+        margin-right: 25px;
+    
+    }
+    #banner .container .row .banner_text h1 {
+        font-size: 65px;
+        font-weight: 700;
+        padding-top: 25px;
+        padding-bottom: 20px;
+    }
+    #banner .container .row .banner_text p {
+        padding-bottom: 25px;
+    }
+    #about .about-items .about_content .info .info1 h5 {
+        font-size: 18px;
+    }
+    #service .card .card-body p {
+        padding-right: 0px; 
+    }
+}
+
+
+/* lg 992-1199 device ==== */
+
+
+
+
 /* extra small device ==== */
 /* extra small device ==== */
 
