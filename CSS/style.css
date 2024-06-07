@@ -32,10 +32,7 @@ nav{
     padding-right: 70px;
 }
 .Hire-me{
-    background-color: #FD6E0A;
     border-radius: 5px;
-    
-    
 }
 
 .Hire-me a{
@@ -70,6 +67,7 @@ nav{
 
 .banner_text{
     padding-top: 124px;
+    margin-top: 30px;
 }
 
 #banner .container .row .banner_text h3{
@@ -107,7 +105,7 @@ nav{
 }
 
 #banner .container .row .banner-photo{
-    margin-top: 15px ;
+    margin-top: 50px ;
    
 } 
 

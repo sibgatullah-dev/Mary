@@ -104,8 +104,25 @@
     #footer .footer_content h3 {
         margin-top: 15px;
     }
-    
+
+    .navbar-nav{
+        padding-bottom: 30px ;
+    }
+    .Hire-me a{
+        color: white;
+        background-color: #FD6E0A; 
+        padding: 10px 25px;
+
+    }
+    .Hire-me{
+        margin-top: 25px;
+    }
+    .navbar-light .navbar-toggler{
+        color: transparent;
+        border: none;
+    }
 }
+
 
 
 
@@ -219,13 +236,32 @@
     #footer .footer_content h3 {
         margin-top: 15px;
     }
+    .navbar-nav{
+        padding-bottom: 30px ;
+    }
+    .Hire-me a{
+        color: white;
+        background-color: #FD6E0A; 
+        padding: 10px 25px;
+
+    }
+    .Hire-me{
+        margin-top: 25px;
+    }
+    .navbar-light .navbar-toggler{
+        color: transparent;
+        border: none;
+    }
  }
 
 /* extra small device ==== */
 
 
-/* extra small device ==== */
-/* extra small device ==== */
+/* small device ==== */
+
+
+
+/* small device ==== */
 
 /* extra small device ==== */
 /* extra small device ==== */
