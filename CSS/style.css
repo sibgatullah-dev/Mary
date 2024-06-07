@@ -64,6 +64,9 @@ nav{
     padding-top: 70px;
 }
 
+.row{
+    position: relative;
+}
 
 .banner_text{
     padding-top: 124px;
