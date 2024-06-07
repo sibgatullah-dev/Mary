@@ -107,9 +107,8 @@ nav{
 }
 
 #banner .container .row .banner-photo{
-    margin-top: 50px ;
-    height: 676px;
-    
+    margin-top: 15px ;
+   
 } 
 
 #banner .container .row .banner_text a svg{
@@ -370,8 +369,8 @@ nav{
     padding: 20px 0px;  
 }
 #footer .footer_content img{
-    width: 24px; 
-    height: 24px;
+    width: 18px; 
+    height: 18px;
     margin-right: 20px;
 }
 #footer .footer_content_btn h3 {
