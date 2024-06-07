@@ -123,9 +123,9 @@
         justify-content: center;
         margin-right:10px;
     }
-    #banner .container .row .banner_text a.contact-btn{
-        padding: 12px 20px;
-        font-size:25px;  
+    #banner .container .row .banner_text a.contact-btn {
+        padding: 12px 50px;
+        font-size: 25px;
     }
     #banner .container .row .banner_text{
         text-align: center;
