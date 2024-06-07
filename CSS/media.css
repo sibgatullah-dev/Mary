@@ -1,3 +1,95 @@
+@media (max-width: 400px){
+    #banner .container .row .banner_text a {
+        padding: 12px 20px;
+        font-size:25px;
+        margin-top: 10px;
+        justify-content: center;
+    }
+    #banner .container .row .banner_text a.contact-btn{
+        padding: 12px 50px;
+        font-size:25px;
+    }
+    #banner .container .row .banner_text{
+        text-align: center;
+    }
+    #about .about-items .about_content p {
+        padding: 12px;
+    }
+    #about .about-items .about_content .info .info1 h5 {
+        font-size: 16px;
+    }
+    #service .title h3{
+        font-size: 30px;
+        font-weight: 700;
+        margin-bottom: 30px;
+    }
+    #service .title p{
+        
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 30px;
+        margin-bottom: 50px;
+    }
+    #service .card .card-body h5{
+        font-size: 15px;
+        padding: 20px 0px;     
+    }
+    #service .card .card-body p{
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 25px;
+        margin-bottom: 0px;
+        padding-right: 0px;   
+    }
+    #service .card .card-body h5{
+        margin-bottom: 0px;
+    }
+    #resume .resume-content .resume-items p {
+        
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 28px;
+        padding-right: 0px;
+        padding-top: 20px;
+    }
+    #resume .resume-content h3 {
+        margin-bottom: 45px;
+        font-size: 35px;
+        font-weight: 700;
+    }
+    #resume .resume-content .resume-items {
+        padding: 30px 0;
+    }
+    #resume .resume-content .resume-items h5 {
+        font-size: 22px;
+    }
+    #resume .resume-content .resume-items h5 {
+        font-size: 20px;
+    }
+    #resume .resume-content .resume-items h6 {
+        font-size: 18px;
+    }
+    #resume .resume-content .resume-items h4 {
+        font-size: 22px;;
+        padding-bottom: 15px;
+    }
+    #resume .resume-content .resume-items h6 {
+        font-size: 18px;
+    }
+    #resume .resume-content .resume-items1 h4 {
+        font-size: 22px;
+        padding-bottom: 15px;
+    }
+    #resume .resume-content .resume-items1 p {
+        font-size: 16px;
+        padding-right: 0px;
+        padding-top: 15px;
+    }
+    
+}
+
+
+
 /* extra small device ==== */
 
 @media (max-width: 575.98px) {
