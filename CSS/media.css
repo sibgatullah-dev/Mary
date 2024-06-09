@@ -3,16 +3,20 @@
         background-color: #FFF8F3;
         padding-top: 35px;
     }
-    #banner .container .row .banner_text a {
+    #banner .container .row .banner_text h1 {
+        font-size: 42px;
+        padding-top: 25px;
+    }
+    #banner .container .row .banner_text h3 {
+        font-size: 38px;
+    }
+    #banner .container .row .banner_text a.cv_download_btn {
         padding: 12px 20px;
-        font-size:25px;
-        margin-top: 10px;
-        justify-content: center;
-        margin-right: 0px;
+        font-size:24px;
     }
     #banner .container .row .banner_text a.contact-btn{
         padding: 12px 50px;
-        font-size:25px;
+        font-size:24px;
        
     }
     #banner .container .row .banner_text{
@@ -133,6 +137,10 @@
         background-color: #FFF8F3;
         padding-top: 35px;
     }
+    #banner .container .row .banner_text h1 {
+        font-size: 60px;
+        padding-top: 25px;
+    }
     #banner .container .row .banner_text a {
         padding: 12px 20px;
         font-size:25px;
@@ -141,7 +149,7 @@
         margin-right:10px;
     }
     #banner .container .row .banner_text a.contact-btn {
-        padding: 12px 50px;
+        padding: 12px 53px;
         font-size: 25px;
     }
     #banner .container .row .banner_text{
@@ -531,7 +539,7 @@
 /* lg 992-1199 device ==== */
 @media (min-width: 992px) and (max-width: 1199px){
     #banner .container .row .banner_text a {
-        padding: 18px 36px;
+        padding: 18px 32px;
         font-size: 18px;
         margin-right: 25px;
     
@@ -552,8 +560,6 @@
         padding-right: 0px; 
     }
 }
-
-
 /* lg 992-1199 device ==== */
 
 

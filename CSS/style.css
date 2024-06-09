@@ -111,9 +111,12 @@ nav{
 
 #banner .container .row .banner_text a svg{
     fill: white;
-    margin-right: 3px;
+    margin-right: 4px;
     height: 24px;
     width: 24px;
+}
+#banner .container .row .banner_text a.cv_download_btn svg{
+    margin-right: 12px;   
 }
 #banner .container .row .banner_text a:hover{
     background-color: white;
@@ -377,6 +380,7 @@ nav{
     font-weight: 700;
     color: #181818;
     margin-top: 100px;
+     ;
 }
 #footer .footer_content_btn a {
     margin-top: 20px;
@@ -388,10 +392,24 @@ nav{
     border-radius: 5px;
     border : 1px solid #FD6E0A;
     transition: all linear .3s;
+    padding: 16px 35px
 }
 #footer .footer_content_btn a:hover {
     background-color: transparent;
     color: #FD6E0A;
+}
+#footer .footer_content_btn input{
+    height: 64px;
+    border: none;
+}
+#footer .footer_content_btn textarea{
+    height: 180px;
+    border: none;
+    
+}
+#footer .footer_content_btn textarea ::placeholder{
+    
+    padding-top: 18px ;
 }
 /* ============= Footer section End ============ */
 
