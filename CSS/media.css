@@ -34,6 +34,7 @@
     }
     #about .about-items .about_content .info .info1 h5 {
         font-size: 16px;
+        margin-bottom: 25px;
     }
     #service .title h3{
         font-size: 30px;
@@ -167,6 +168,7 @@
     }
     #about .about-items .about_content .info .info1 h5 {
         font-size: 16px;
+        margin-bottom: 25px;
     }
     #service .title h3{
         font-size: 30px;
@@ -299,6 +301,7 @@
     }
     #about .about-items .about_content .info .info1 h5 {
         font-size: 16px;
+        margin-bottom: 25px;
     }
     #service .title h3{
         font-size: 30px;
@@ -571,4 +574,132 @@
 
 
 
-@media (min-width: 576px) and (max-width: 767.98px) { }
+@media (max-width: 300px){
+    #banner {
+        background-color: #FFF8F3;
+        padding-top: 35px;
+    }
+    #banner .container .row .banner_text h1 {
+        font-size: 42px;
+        padding-top: 25px;
+    }
+    #banner .container .row .banner_text h3 {
+        font-size: 38px;
+    }
+    #banner .container .row .banner_text a.cv_download_btn {
+        padding: 12px 20px;
+        font-size:24px;
+    }
+    #banner .container .row .banner_text a.contact-btn{
+        padding: 12px 53px;
+        font-size:24px;
+       
+    }
+    #banner .container .row .banner_text{
+        text-align: center;
+    }
+        /* the margin of the container isn't decreasing  */
+    #about .container {
+        margin-top: 40px;
+    }
+    #about .about-items {
+        padding: 40px 0;
+    }
+    #about .about-items .about_content p {       
+        padding: 12px;
+    }
+    #about .about-items .about_content .info .info1 h5 {
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+    #service .title h3{
+        font-size: 30px;
+        font-weight: 700;
+        margin-bottom: 30px;
+    }
+    #service .title p{
+        
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 30px;
+        margin-bottom: 50px;
+    }
+    #service .card .card-body h5{
+        font-size: 15px;
+        padding: 20px 0px;     
+    }
+    #service .card .card-body p{
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 25px;
+        margin-bottom: 0px;
+        padding-right: 0px;   
+    }
+    #service .card .card-body h5{
+        margin-bottom: 0px;
+    }
+    #resume .resume-content .resume-items p {
+        
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 28px;
+        padding-right: 0px;
+        padding-top: 20px;
+    }
+    #resume .resume-content h3 {
+        margin-bottom: 45px;
+        font-size: 35px;
+        font-weight: 700;
+    }
+    #resume .resume-content .resume-items {
+        padding: 30px 0;
+    }
+    #resume .resume-content .resume-items h5 {
+        font-size: 22px;
+    }
+    #resume .resume-content .resume-items h5 {
+        font-size: 20px;
+    }
+    #resume .resume-content .resume-items h6 {
+        font-size: 18px;
+    }
+    #resume .resume-content .resume-items h4 {
+        font-size: 22px;;
+        padding-bottom: 15px;
+    }
+    #resume .resume-content .resume-items h6 {
+        font-size: 18px;
+    }
+    #resume .resume-content .resume-items1 h4 {
+        font-size: 22px;
+        padding-bottom: 15px;
+    }
+    #resume .resume-content .resume-items1 p {
+        font-size: 16px;
+        padding-right: 0px;
+        padding-top: 15px;
+    }
+    #footer {
+        padding: 50px 0;
+    }
+    #footer .footer_content h3 {
+        margin-top: 15px;
+    }
+
+    .navbar-nav{
+        padding-bottom: 30px ;
+    }
+    .Hire-me a{
+        color: white;
+        background-color: #FD6E0A; 
+        padding: 10px 25px;
+
+    }
+    .Hire-me{
+        margin-top: 25px;
+    }
+    .navbar-light .navbar-toggler{
+        color: transparent;
+        border: none;
+    }
+}
